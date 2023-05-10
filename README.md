@@ -1,1 +1,1 @@
-# WatchTogether
+# Watch Together
